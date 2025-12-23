@@ -18,13 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Emerson's math tutoring
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Hi! My name is Emerson and I love math. 
+  I am excited to be offering a one-on-one virtual math tutoring service! 
+  Please feel free to reach out over DMs if you or someone you know might be interested. 
+  I have a degree in applied math and I can assist with any math topic from k-12 and even college levels. 
+  I believe that one-on-one instruction with a teacher who cares is the best way to improve at math. 
+  I’m very passionate about math and I hope to help others see the beauty in my favorite subject.
+baseurl: "https://emersonio.github.io/Tutoring-Site/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
