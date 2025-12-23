@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I have a degree in applied math and I can assist with any math topic from k-12 and even college levels. 
   I believe that one-on-one instruction with a teacher who cares is the best way to improve at math. 
   I’m very passionate about math and I hope to help others see the beauty in my favorite subject.
-baseurl: "Tutoring-Site/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
