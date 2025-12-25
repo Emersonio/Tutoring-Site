@@ -1,7 +1,5 @@
 @font-face {
-  font-family: 'MyCustomFont'; /* Define a unique name for your font */
-  src: url('fonts/myfont.woff2') format('woff2'),
-       url('fonts/myfont.woff') format('woff'),
-       url('fonts/myfont.ttf') format('truetype'); /* Point to the font files */
+  font-family: 'monocraft'; /* Define a unique name for your font */
+  src: url('monocraft.ttc') format('ttc')
   /* You can also add font-weight and font-style descriptors here if you have different variations */
 }
